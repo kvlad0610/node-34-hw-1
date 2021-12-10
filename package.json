@@ -1,0 +1,28 @@
+{
+	"name": "34-hw-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index",
+		"start:dev": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kvlad0610/node-34-hw-1.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kvlad0610/node-34-hw-1/issues"
+	},
+	"homepage": "https://github.com/kvlad0610/node-34-hw-1#readme",
+	"dependencies": {
+		"commander": "^8.3.0",
+		"nanoid": "^3.1.30"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
